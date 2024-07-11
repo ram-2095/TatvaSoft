@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\jujut5su tech\\tokyo jujutsu high\\toji\\internship\\tatvasoft\\day-7\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\jujut5su tech\\tokyo jujutsu high\\toji\\internship\\tatvasoft\\day-7\\authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\jujut5su tech\\tokyo jujutsu high\\toji\\internship\\tatvasoft\\day-7\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\jujut5su tech\\tokyo jujutsu high\\toji\\internship\\tatvasoft\\day-7\\authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\jujut5su tech\\tokyo jujutsu high\\toji\\internship\\tatvasoft\\day-7\\authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\jujut5su tech\\tokyo jujutsu high\\toji\\internship\\tatvasoft\\day-7\\authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\jujut5su tech\\tokyo jujutsu high\\toji\\internship\\tatvasoft\\day-7\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:48:00.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\AuthContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\AuthContext.cs",
+              "ToolTip": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\AuthContext.cs",
+              "RelativeToolTip": "Authentication\\AuthContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:47:48.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionController.cs",
+              "ToolTip": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Entities\\User.cs",
+              "ToolTip": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Entities\\User.cs",
+              "RelativeToolTip": "Authentication\\Entities\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Repository\\IMission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IMission.cs",
+              "ToolTip": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Repository\\IMission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T12:27:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Jujut5su Tech\\Tokyo Jujutsu High\\TOJI\\Internship\\Tatvasoft\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
