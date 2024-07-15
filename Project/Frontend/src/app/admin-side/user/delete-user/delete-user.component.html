@@ -1,0 +1,39 @@
+<div class="container-fluid">
+    <app-sidebar></app-sidebar>
+    <div class="content">
+      <!-- <app-header></app-header> -->
+      <div class="info">  
+        <div class="card">
+          <div class="card-header">
+            Delete User
+          </div>
+          <div class="card-body">
+            <!-- <form [formGroup]="updateForm" (ngSubmit)="onSubmit()"> -->
+                <h2>To delete passsword required</h2>
+                <div class="form-group">
+                  <label class="col-form-label">Enter Password</label>
+                  <input type="password" name="password" id="password" class="form-control" formControlName="password" placeholder="**********">
+                  <span class="text-danger" *ngIf="password.invalid && (password.touched || formValid)">
+                        <span *ngIf="password.errors?.['required']">
+                          Please Enter Password
+                        </span>
+                        <span *ngIf="password.errors?.['minLength']">
+                          Password should not be less than 5 character
+                        </span>
+                        <span *ngIf="password.errors?.['maxLength']">
+                          Password should not be greater than 10 character
+                        </span>
+                  </span>
+                </div>
+                
+                <div class="d-grid mt-5">
+                  <button class="btnSave" type="submit"><span class="Login">Delete</span></button>
+                </div>
+
+              <!-- </form> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
